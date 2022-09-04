@@ -1,5 +1,5 @@
 # Data Structures and Algorithms
-My projects for the DSA course at university.
+My projects for the DSA course from the 2nd semester of the 1st year at university.
 
 <b> Lab 1 </b> - ADT Bag implemented on Dynamic Array
 
